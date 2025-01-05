@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    var end = Date.now() + (6 * 1000);
+    var end = Date.now() + (5 * 1000);
   
     // Definir colores
     var colors = ['#511252', '#262626'];
