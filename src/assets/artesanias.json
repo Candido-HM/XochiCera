@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Mayordomia Virgen de Asunción",
+        "image_url": "./cirios/cirio-agt1-2022.webp",
+        "release_date": "2022-08-15",
+        "type": "Cirio grande",
+        "description": "Cirio grande decorado a mano con motivos florales."
+    },
+    {
+        "id": 2,
+        "name": "Mayordomia Virgen de Asunción",
+        "image_url": "./cirios/cirio-agt2-2022.webp",
+        "release_date": "2022-08-15",
+        "type": "Cirio grande",
+        "description": "Cirio decorado a mano con motivos florales."
+    },
+    {
+        "id": 3,
+        "name": "Mayordomia Virgen de Asunción",
+        "image_url": "./cirios/cirio-agt3-2022.webp",
+        "release_date": "2022-08-15",
+        "type": "Cirio grande",
+        "description": "Cirio decorado a mano con motivos florales."
+    },
+    {
+        "id": 4,
+        "name": "Mayordomia de San José",
+        "image_url": "./cirios/cirio-mzo1-2023.webp",
+        "release_date": "2023-03-19",
+        "type": "Cirio grande",
+        "description": "Cirio decorado a mano con motivos florales."
+    },
+    {
+        "id": 5,
+        "name": "Mayordomia de Señor de la Misericordia",
+        "image_url": "./cirios/cirio-abr1-2023.webp",
+        "release_date": "2023-04-16",
+        "type": "Cirio grande",
+        "description": "Cirio decorado a mano con motivos florales."
+    },
+    {
+        "id": 6,
+        "name": "Mayordomia de Señor de la Misericordia",
+        "image_url": "./cirios/cirio-abr2-2023.webp",
+        "release_date": "2023-04-16",
+        "type": "Cirio grande",
+        "description": "Cirio decorado a mano con motivos florales."
+    },
+    {
+        "id": 7,
+        "name": "Mayordomia Santa Cruz",
+        "image_url": "./cirios/cirio-may1-2023.webp",
+        "release_date": "2023-05-03",
+        "type": "Cirio grande",
+        "description": "Cirio decorado a mano con motivos florales."
+    },
+    {
+        "id": 8,
+        "name": "Mayordomia Santa Cruz",
+        "image_url": "./cirios/cirio-may2-2023.webp",
+        "release_date": "2023-05-03",
+        "type": "Cirio grande",
+        "description": "Cirio decorado a mano con motivos florales."
+    }
+]

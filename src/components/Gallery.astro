@@ -1,4 +1,15 @@
-<div class="w-full sm:w-3/4 max-w-screen-lg grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 mb-10 px-5 sm:p-0 -mt-14">
+---
+import artesanias from '../assets/artesanias.json';
+---
+
+<div class="w-full sm:w-3/4 max-w-scren-lg grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 mb-10 px-5 sm:p-0 -mt-14">
+    {artesanias.slice().reverse().map((artesania) => (
+        <div class="bg-gray-300 rounded-lg">
+            <img class="h-auto max-w-full drop-shadow-xl hover:scale-105" src={artesania.image_url} alt={artesania.name} />
+        </div>
+        ))
+    }
+
     <div class="bg-gray-300 rounded-lg">
         <img class="h-auto max-w-full drop-shadow-xl hover:scale-105" src="https://res.cloudinary.com/dhwbvncoq/image/upload/v1736197508/Artisan/cirio-dic1-2024_uhmwq5.webp" alt="cirio-grande">
     </div>
@@ -56,28 +67,28 @@
     <div class="bg-gray-300 rounded-lg">
         <img class="h-auto max-w-full drop-shadow-xl hover:scale-105" src="/cirios/cirio-jun1-2023.webp" alt="cirio-grande">
     </div>
-    <div class="bg-gray-300 rounded-lg">
+    <!-- <div class="bg-gray-300 rounded-lg">
         <img class="h-auto max-w-full drop-shadow-xl hover:scale-105" src="/cirios/cirio-may2-2023.webp" alt="cirio-grande">
-    </div>
-    <div class="bg-gray-300 rounded-lg">
+    </div> -->
+    <!-- <div class="bg-gray-300 rounded-lg">
         <img class="h-auto max-w-full drop-shadow-xl hover:scale-105" src="/cirios/cirio-may1-2023.webp" alt="cirio-grande">
-    </div>
-    <div class="bg-gray-300 rounded-lg">
+    </div> -->
+    <!-- <div class="bg-gray-300 rounded-lg">
         <img class="h-auto max-w-full drop-shadow-xl hover:scale-105" src="/cirios/cirio-abr2-2023.webp" alt="cirio-grande">
-    </div>
-    <div class="bg-gray-300 rounded-lg">
+    </div> -->
+    <!-- <div class="bg-gray-300 rounded-lg">
         <img class="h-auto max-w-full drop-shadow-xl hover:scale-105" src="/cirios/cirio-abr1-2023.webp" alt="cirio-grande">
-    </div>
-    <div class="bg-gray-300 rounded-lg">
+    </div> -->
+    <!-- <div class="bg-gray-300 rounded-lg">
         <img class="h-auto max-w-full drop-shadow-xl hover:scale-105" src="/cirios/cirio-mzo1-2023.webp" alt="cirio-grande">
-    </div>
-    <div class="bg-gray-300 rounded-lg">
+    </div> -->
+    <!-- <div class="bg-gray-300 rounded-lg">
         <img class="h-auto max-w-full drop-shadow-xl hover:scale-105" src="/cirios/cirio-agt3-2022.webp" alt="cirio-grande">
-    </div>
-    <div class="bg-gray-300 rounded-lg">
+    </div> -->
+    <!-- <div class="bg-gray-300 rounded-lg">
         <img class="h-auto max-w-full drop-shadow-xl hover:scale-105" src="/cirios/cirio-agt2-2022.webp" alt="cirio-grande">
-    </div>
-    <div class="bg-gray-300 rounded-lg">
+    </div> -->
+    <!-- <div class="bg-gray-300 rounded-lg">
         <img class="h-auto max-w-full drop-shadow-xl hover:scale-105" src="/cirios/cirio-agt1-2022.webp" alt="cirio-grande">
-    </div>
+    </div> -->
 </div>
