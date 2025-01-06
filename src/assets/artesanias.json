@@ -62,5 +62,141 @@
         "release_date": "2023-05-03",
         "type": "Cirio grande",
         "description": "Cirio decorado a mano con motivos florales."
+    },
+    {
+        "id": 9,
+        "name": "Mayordomia San Antonio",
+        "image_url": "./cirios/cirio-jun1-2023.webp",
+        "release_date": "2023-06-13",
+        "type": "Cirio grande",
+        "description": "Cirio decorado a mano con motivos florales."
+    },
+    {
+        "id": 10,
+        "name": "Mayordomia Virgen del Carmen",
+        "image_url": "./cirios/cirio-jul1-2023.webp",
+        "release_date": "2023-07-16",
+        "type": "Cirio grande",
+        "description": "Cirio decorado a mano con motivos florales."
+    },
+    {
+        "id": 11,
+        "name": "Mayordomia Padre Jésus",
+        "image_url": "./cirios/cirio-agt1-2023.webp",
+        "release_date": "2023-08-06",
+        "type": "Cirio grande",
+        "description": "Cirio decorado a mano con motivos florales."
+    },
+    {
+        "id": 12,
+        "name": "Mayordomia Padre Jésus",
+        "image_url": "./cirios/cirio-agt2-2023.webp",
+        "release_date": "2023-08-06",
+        "type": "Cirio grande",
+        "description": "Cirio decorado a mano con motivos florales."
+    },
+    {
+        "id": 13,
+        "name": "Mayordomia Inicio de feria",
+        "image_url": "./cirios/cirio-oct1-2023.webp",
+        "release_date": "2023-10-02",
+        "type": "Cirio grande",
+        "description": "Cirio decorado a mano con motivos florales."
+    },
+    {
+        "id": 14,
+        "name": "Mayordomia Inicio de feria",
+        "image_url": "./cirios/cirio-oct2-2023.webp",
+        "release_date": "2023-10-02",
+        "type": "Cirio grande",
+        "description": "Cirio decorado a mano con motivos florales."
+    },
+    {
+        "id": 15,
+        "name": "Pedido Chignautla",
+        "image_url": "./velas/vela-penacho.webp",
+        "release_date": "2023-10-11",
+        "type": "Vela",
+        "description": "Vela decorado con penacho."
+    },
+    {
+        "id": 16,
+        "name": "Mayordomia Noche Buena",
+        "image_url": "./cirios/cirio-dic1-2023.webp",
+        "release_date": "2023-12-24",
+        "type": "Cirio grande",
+        "description": "Cirio decorado noche buena."
+    },
+    {
+        "id": 17,
+        "name": "Mayordomia Misericordia",
+        "image_url": "./cirios/cirio-abr1-2024.webp",
+        "release_date": "2023-04-07",
+        "type": "Cirio grande",
+        "description": "Cirio decorado noche buena."
+    },
+    {
+        "id": 18,
+        "name": "Mayordomia Misericordia",
+        "image_url": "./cirios/cirio-abr2-2024.webp",
+        "release_date": "2023-04-07",
+        "type": "Cirio grande",
+        "description": "Cirio decorado noche buena."
+    },
+    {
+        "id": 19,
+        "name": "Mayordomia Sagrado Corazon",
+        "image_url": "./cirios/cirio-may1-2024.webp",
+        "release_date": "2023-05-03",
+        "type": "Cirio grande",
+        "description": "Cirio decorado noche buena."
+    }, 
+    {
+        "id": 20,
+        "name": "Mayordomia Sagrado Corazon",
+        "image_url": "./cirios/cirio-may2-2024.webp",
+        "release_date": "2023-05-03",
+        "type": "Cirio grande",
+        "description": "Cirio decorado noche buena."
+    },
+    {
+        "id": 21,
+        "name": "Mayordomia Del Carmen",
+        "image_url": "./cirios/cirio-jul1-2024.webp",
+        "release_date": "2023-07-16",
+        "type": "Cirio grande",
+        "description": "Cirio decorado noche buena."
+    }, 
+    {
+        "id": 22,
+        "name": "Mayordomia Del Padre",
+        "image_url": "./cirios/cirio-agt1-2024.webp",
+        "release_date": "2023-08-06",
+        "type": "Cirio grande",
+        "description": "Cirio decorado noche buena."
+    },
+    {
+        "id": 23,
+        "name": "Mayordomia Del Padre",
+        "image_url": "./cirios/cirio-agt2-2024.webp",
+        "release_date": "2023-08-06",
+        "type": "Cirio grande",
+        "description": "Cirio decorado noche buena."
+    },
+    {
+        "id": 24,
+        "name": "Mayordomia Del Padre",
+        "image_url": "./cirios/cirio-agt3-2024.webp",
+        "release_date": "2023-08-06",
+        "type": "Cirio grande",
+        "description": "Cirio decorado noche buena."
+    },
+    {
+        "id": 25,
+        "name": "Mayordomia Del 22",
+        "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736196962/Artisan/cirio-agt4-2024_vyzadz.webp",
+        "release_date": "2023-08-22",
+        "type": "Cirio grande",
+        "description": "Cirio decorado noche buena."
     }
 ]
