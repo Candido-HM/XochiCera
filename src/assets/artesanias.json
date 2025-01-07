@@ -198,5 +198,21 @@
         "release_date": "2023-08-22",
         "type": "Cirio grande",
         "description": "Cirio decorado noche buena."
+    },
+    {
+        "id": 26,
+        "name": "Mayordomia segunda de feria",
+        "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736264901/Artisan/cirio-oct1-2024_w1fpsl.webp",
+        "release_date": "2023-10-02",
+        "type": "Cirio grande",
+        "description": "Cirio decorado noche buena."
+    },
+    {
+        "id": 27,
+        "name": "Mayordomia segunda de feria",
+        "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736265141/Artisan/cirio-oct2-2024_lnwerp.webp",
+        "release_date": "2023-10-02",
+        "type": "Cirio grande",
+        "description": "Cirio decorado noche buena."
     }
 ]
