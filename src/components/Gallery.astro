@@ -3,7 +3,7 @@ import artesanias from '../assets/artesanias.json';
 import TooltipsReactions from './TooltipsReactions.astro';
 import Tooltips from './tooltips.astro';
 ---
-<div class="w-full sm:w-3/4 max-w-scren-lg grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 mb-10 px-5 sm:p-0 -mt-14">
+<div class="w-full sm:w-3/4 max-w-scren-lg grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-10 px-5 sm:p-0 -mt-14">
 
     <!-- {artesanias.slice().reverse().map((artesania) => (
         <div class="bg-gray-300 rounded-lg">
@@ -21,9 +21,9 @@ import Tooltips from './tooltips.astro';
 
     
     {artesanias.slice().reverse().map((artesania) => (
-        <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-            <div class="p-1 bg-gray-300 rounded-t-lg">
-                <img class="hover:scale-105" src={artesania.image_url} alt={artesania.name}/>
+        <div class="bg-white border border-gray-200 rounded-lg shadow">
+            <div class="w-full flex justify-center items-center bg-gray-300 rounded-t-lg h-[500px] overflow-hidden p-3">
+                <img class="block w-full h-full object-contain drop-shadow-xl" src={artesania.image_url} alt={artesania.name}/>
             </div>
             <div class="p-5">
                 <div>
