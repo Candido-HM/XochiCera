@@ -185,7 +185,7 @@
     },
     {
         "id": 24,
-        "name": "Mayordomia Del Padre",
+        "name": "Cirio artesanal",
         "image_url": "./cirios/cirio-agt3-2024.webp",
         "release_date": "2023-08-06",
         "type": "Cirio",
@@ -193,7 +193,7 @@
     },
     {
         "id": 25,
-        "name": "Mayordomia Del 22",
+        "name": "Estrellas",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736210804/Artisan/cirio-agt4-2024_rejcu3.webp",
         "release_date": "2023-08-22",
         "type": "Cirio",
@@ -201,7 +201,7 @@
     },
     {
         "id": 26,
-        "name": "Mayordomia segunda de feria",
+        "name": "San Francisco",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736264901/Artisan/cirio-oct1-2024_w1fpsl.webp",
         "release_date": "2023-10-02",
         "type": "Cirio",
@@ -209,7 +209,7 @@
     },
     {
         "id": 27,
-        "name": "Mayordomia segunda de feria",
+        "name": "San Francisco II",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736265141/Artisan/cirio-oct2-2024_lnwerp.webp",
         "release_date": "2023-10-02",
         "type": "Cirio",
@@ -217,7 +217,7 @@
     },
     {
         "id": 28,
-        "name": "Mayordomia Concepción",
+        "name": "Estampado Concepción",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736285750/Artisan/cirio-dic1-2024_wcxsz3.webp",
         "release_date": "2023-12-08",
         "type": "Cirio",
@@ -225,7 +225,7 @@
     },
     {
         "id": 29,
-        "name": "Mayordomia Concepción Zacatilihuic",
+        "name": "Decorado con estrellas",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736286219/Artisan/cirio-dic2-2024_sfuawk.webp",
         "release_date": "2023-12-08",
         "type": "Cirio",
@@ -233,7 +233,7 @@
     },
     {
         "id": 30,
-        "name": "Mayordomia Concepción Zacatilihuic",
+        "name": "Círculo de girasoles",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736286605/Artisan/minicirio-dic-2024_rhde7x.webp",
         "release_date": "2023-12-08",
         "type": "Mini-Cirio",
@@ -241,7 +241,7 @@
     },
     {
         "id": 31,
-        "name": "Mayordomia Guadalupe",
+        "name": "Arreglo de girasol",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736287098/Artisan/cirio-dic3-2024_rbwaxd.webp",
         "release_date": "2023-12-12",
         "type": "Cirio",
@@ -249,7 +249,7 @@
     },
     {
         "id": 32,
-        "name": "Mayordomia Guadalupe",
+        "name": "Arreglo de dalias",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736287399/Artisan/cirio-dic4-2024_jfsa71.webp",
         "release_date": "2023-12-12",
         "type": "Cirio",
