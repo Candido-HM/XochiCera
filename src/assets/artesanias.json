@@ -129,7 +129,7 @@
     },
     {
         "id": 17,
-        "name": "Mayordomia Misericordia",
+        "name": "Ramas con Alcatraz",
         "image_url": "./cirios/cirio-abr1-2024.webp",
         "release_date": "2023-04-07",
         "type": "Cirio",
@@ -137,7 +137,7 @@
     },
     {
         "id": 18,
-        "name": "Mayordomia Misericordia",
+        "name": "Las 4 dalias",
         "image_url": "./cirios/cirio-abr2-2024.webp",
         "release_date": "2023-04-07",
         "type": "Cirio",
@@ -145,7 +145,7 @@
     },
     {
         "id": 19,
-        "name": "Mayordomia Sagrado Corazon",
+        "name": "Mayordomía Sagrado Corazón",
         "image_url": "./cirios/cirio-may1-2024.webp",
         "release_date": "2023-05-03",
         "type": "Cirio",
@@ -153,7 +153,7 @@
     }, 
     {
         "id": 20,
-        "name": "Mayordomia Sagrado Corazon",
+        "name": "Decorativo sol",
         "image_url": "./cirios/cirio-may2-2024.webp",
         "release_date": "2023-05-03",
         "type": "Cirio",
@@ -161,7 +161,7 @@
     },
     {
         "id": 21,
-        "name": "Mayordomia Del Carmen",
+        "name": "Mayordomía del Carmen",
         "image_url": "./cirios/cirio-jul1-2024.webp",
         "release_date": "2023-07-16",
         "type": "Cirio",
@@ -169,7 +169,7 @@
     }, 
     {
         "id": 22,
-        "name": "Mayordomia Del Padre",
+        "name": "Cirio floral dalias",
         "image_url": "./cirios/cirio-agt1-2024.webp",
         "release_date": "2023-08-06",
         "type": "Cirio",
@@ -177,7 +177,7 @@
     },
     {
         "id": 23,
-        "name": "Mayordomia Del Padre",
+        "name": "Decorativo rosas",
         "image_url": "./cirios/cirio-agt2-2024.webp",
         "release_date": "2023-08-06",
         "type": "Cirio",
