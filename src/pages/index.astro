@@ -4,6 +4,9 @@ import Header from '../components/Header.astro';
 import HeroXochi from '../components/HeroXochi.astro';
 import Gallery from '../components/Gallery.astro';
 import Footer from '../components/Footer.astro';
+import { HelloComponent } from '../components/hello.component';
+
+const helpText = "Helping binding index"; // Definir la propiedad
 ---
 
 <Layout>
@@ -12,5 +15,9 @@ import Footer from '../components/Footer.astro';
 		<HeroXochi />
 		<Gallery />
 	</main>
+	<!-- <HelloComponent /> -->
+	 <!-- Usa el componente Angular dentro de Astro -->
+	 <!-- <HelloComponent client:visible helpText={helpText}/> -->
+	<!-- <HelloComponent helpText={helpText} /> -->
 	<Footer />
 </Layout>
