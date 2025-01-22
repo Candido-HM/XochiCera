@@ -18,5 +18,6 @@ export class HelloComponent {
 
   toggle() {
     this.show = !this.show;
+    console.log('Soy la funcion Toggle');
   }
 }
