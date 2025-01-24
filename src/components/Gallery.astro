@@ -3,6 +3,7 @@ import artesanias from '../assets/artesanias.json';
 import TooltipsReactions from './TooltipsReactions.astro';
 // import Tooltips from './tooltips.astro';
 import { TooltipsReactionsComponent } from './angularcomponents/TooltipsReactions.component';
+import { ReactionSectionComponent } from './reactions-components/SectionReaction.component';
 
 // const helpText:string = "Helping binding";
 ---
@@ -28,22 +29,33 @@ import { TooltipsReactionsComponent } from './angularcomponents/TooltipsReaction
             <div class="relative w-full flex justify-center items-center bg-slate-700 bg-opacity-30 backdrop-blur-md rounded-t-lg h-[500px] overflow-hidden p-3">
                 <img class="block w-full h-full object-contain drop-shadow-xl" src={artesania.image_url} alt={artesania.name}/>
             </div>
-            <div class="h-full bg-white p-5">
+
+            {/* <div class=" bg-white flex items-center py-3 px-5 bg-red-500">
+                <div class="bg-teal-500 flex items-center space-x-1 rtl:space-x-reverse">
+                    <button>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24">
+                            <path fill="#666666" d="M12 4.528a6 6 0 0 0-8.243 8.715l6.829 6.828a2 2 0 0 0 2.828 0l6.829-6.828A6 6 0 0 0 12 4.528m-1.172 1.644l.465.464a1 1 0 0 0 1.414 0l.465-.464a4 4 0 1 1 5.656 5.656L12 18.657l-6.828-6.829a4 4 0 0 1 5.656-5.656"/>
+                        </svg>
+                    </button>
+                    <button>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 128 128">
+                            <path fill="#db4437" d="M90.35 16.05c-11.66 0-21.81 6.97-26.35 17.06c-4.54-10.08-14.69-17.06-26.35-17.06c-15.92 0-28.87 12.96-28.87 28.88c0 35.9 51.79 65.46 54 66.7c.38.21.79.32 1.21.32s.84-.11 1.21-.32c2.2-1.24 54.01-30.8 54.01-66.7c.01-15.92-12.94-28.88-28.86-28.88"/>
+                        </svg>
+                    </button> 
+                </div>
+                <span class="bg-blue-200 text-blue-700 text-xs font-semibold px-2.5 py-0.5 rounded-md ms-3">0</span>
+            </div> */}
+            <ReactionSectionComponent />
+            
+            <div class="h-full bg-white px-5">
                 <div>
                     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{artesania.name}</h5>
                 </div>
                 <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">{artesania.type}</p>
-                <div class="w-full inline-flex justify-end px-3 py-2 text-sm font-medium text-center">
-                    {/* <!-- Read more -->
-                    <!-- <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-                        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
-                    </svg> --> */}
-                    {/* <TooltipsReactions artisanId={artesania.id} /> */}
-                    {/* <TooltipsReactionsComponent artisanId={artesania.id}/> */}
-                </div>
+                    {/* <TooltipsReactions artisanId={artesania.id} />  */}
+                    {/* {<TooltipsReactionsComponent artisanId={artesania.id}/> } */}
             </div>
         </div>
     ))}
       
 </div>
-

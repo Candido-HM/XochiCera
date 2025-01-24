@@ -1,18 +1,13 @@
-// import { NgIf } from "@angular/common";
-import { Component, Input } from "@angular/core";
+import { NgIf } from "@angular/common";
+import { Component, Input, ChangeDetectorRef } from "@angular/core";
 
 @Component({
-    selector:'app-reactions-ang',
+    selector:'app-tooltips-reactions',
     standalone: true,
-    // imports: [NgIf],
+    imports: [NgIf],
     template: `
-    
-    <!-- <div data-dial-init class="flex end-6 bottom-6 group">
-        <span>Aqui van a ir las reacciones</span>
-        <span class="bg-red-200">{{ artisanId }}</span>
-
-    </div> -->
     <div data-dial-init class="flex end-6 bottom-6 group">
+        <span *ngIf="show">Me encanta</span>
         <div id="speed-dial-menu-horizontal-{{artisanId}}" class="flex items-center hidden me-4 space-x-2 rtl:space-x-reverse">
             <button type="button" (click)="love()" [attr.data-tooltip-target]="'tooltip-share-' + artisanId" data-tooltip-placement="top" class="flex justify-center items-center w-[52px] h-[52px] text-gray-500 hover:text-gray-900 bg-white rounded-full border border-gray-200 dark:border-gray-600 shadow-sm dark:hover:text-white dark:text-gray-400 hover:bg-gray-50 dark:bg-gray-700 dark:hover:bg-gray-600 focus:ring-4 focus:ring-gray-300 focus:outline-none dark:focus:ring-gray-400">
                 <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" viewBox="0 0 512 512">
@@ -64,8 +59,14 @@ import { Component, Input } from "@angular/core";
 export class TooltipsReactionsComponent {
     @Input() artisanId!: string;
 
+    constructor(private cdr: ChangeDetectorRef){}
+
+    show = false;
+
     love() {
-        // alert('Me encanta');
+        alert('Funciona');
         console.log('Me encanta');
+        this.show = !this.show;
+        this.cdr.detectChanges();
     }
 }
