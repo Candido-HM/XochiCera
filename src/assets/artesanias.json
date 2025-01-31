@@ -5,7 +5,8 @@
         "image_url": "./cirios/cirio-agt1-2022.webp",
         "release_date": "2022-08-15",
         "type": "Cirio",
-        "description": "Cirio grande decorado a mano con motivos florales."
+        "description": "Cirio grande decorado a mano con motivos florales.",
+        "status": "legacy"
     },
     {
         "id": "102",
@@ -13,7 +14,8 @@
         "image_url": "./cirios/cirio-agt2-2022.webp",
         "release_date": "2022-08-15",
         "type": "Cirio",
-        "description": "Cirio decorado a mano con motivos florales."
+        "description": "Cirio decorado a mano con motivos florales.",
+        "status": "legacy"
     },
     {
         "id": "103",
@@ -21,7 +23,8 @@
         "image_url": "./cirios/cirio-agt3-2022.webp",
         "release_date": "2022-08-15",
         "type": "Cirio",
-        "description": "Cirio decorado a mano con motivos florales."
+        "description": "Cirio decorado a mano con motivos florales.",
+        "status": "legacy"
     },
     {
         "id": "104",
@@ -29,7 +32,8 @@
         "image_url": "./cirios/cirio-mzo1-2023.webp",
         "release_date": "2023-03-19",
         "type": "Cirio",
-        "description": "Cirio decorado a mano con motivos florales."
+        "description": "Cirio decorado a mano con motivos florales.",
+        "status": "legacy"
     },
     {
         "id": "105",
@@ -37,7 +41,8 @@
         "image_url": "./cirios/cirio-abr1-2023.webp",
         "release_date": "2023-04-16",
         "type": "Cirio",
-        "description": "Cirio decorado a mano con motivos florales."
+        "description": "Cirio decorado a mano con motivos florales.",
+        "status": "legacy"
     },
     {
         "id": "106",
@@ -45,7 +50,8 @@
         "image_url": "./cirios/cirio-abr2-2023.webp",
         "release_date": "2023-04-16",
         "type": "Cirio",
-        "description": "Cirio decorado a mano con motivos florales."
+        "description": "Cirio decorado a mano con motivos florales.",
+        "status": "legacy"
     },
     {
         "id": "107",
@@ -53,7 +59,8 @@
         "image_url": "./cirios/cirio-may1-2023.webp",
         "release_date": "2023-05-03",
         "type": "Cirio",
-        "description": "Cirio decorado a mano con motivos florales."
+        "description": "Cirio decorado a mano con motivos florales.",
+        "status": "legacy"
     },
     {
         "id": "108",
@@ -61,7 +68,8 @@
         "image_url": "./cirios/cirio-may2-2023.webp",
         "release_date": "2023-05-03",
         "type": "Cirio",
-        "description": "Cirio decorado a mano con motivos florales."
+        "description": "Cirio decorado a mano con motivos florales.",
+        "status": "legacy"
     },
     {
         "id": "109",
@@ -69,7 +77,8 @@
         "image_url": "./cirios/cirio-jun1-2023.webp",
         "release_date": "2023-06-13",
         "type": "Cirio",
-        "description": "Cirio decorado a mano con motivos florales."
+        "description": "Cirio decorado a mano con motivos florales.",
+        "status": "legacy"
     },
     {
         "id": "110",
@@ -77,7 +86,8 @@
         "image_url": "./cirios/cirio-jul1-2023.webp",
         "release_date": "2023-07-16",
         "type": "Cirio",
-        "description": "Cirio decorado a mano con motivos florales."
+        "description": "Cirio decorado a mano con motivos florales.",
+        "status": "legacy"
     },
     {
         "id": "111",
@@ -85,7 +95,8 @@
         "image_url": "./cirios/cirio-agt1-2023.webp",
         "release_date": "2023-08-06",
         "type": "Cirio",
-        "description": "Cirio decorado a mano con motivos florales."
+        "description": "Cirio decorado a mano con motivos florales.",
+        "status": "legacy"
     },
     {
         "id": "112",
@@ -93,7 +104,8 @@
         "image_url": "./cirios/cirio-agt2-2023.webp",
         "release_date": "2023-08-06",
         "type": "Cirio",
-        "description": "Cirio decorado a mano con motivos florales."
+        "description": "Cirio decorado a mano con motivos florales.",
+        "status": "legacy"
     },
     {
         "id": "113",
@@ -101,7 +113,8 @@
         "image_url": "./cirios/cirio-oct1-2023.webp",
         "release_date": "2023-10-02",
         "type": "Cirio",
-        "description": "Cirio decorado a mano con motivos florales."
+        "description": "Cirio decorado a mano con motivos florales.",
+        "status": "legacy"
     },
     {
         "id": "114",
@@ -109,7 +122,8 @@
         "image_url": "./cirios/cirio-oct2-2023.webp",
         "release_date": "2023-10-02",
         "type": "Cirio",
-        "description": "Cirio decorado a mano con motivos florales."
+        "description": "Cirio decorado a mano con motivos florales.",
+        "status": "legacy"
     },
     {
         "id": "115",
@@ -117,7 +131,8 @@
         "image_url": "./velas/vela-penacho.webp",
         "release_date": "2023-10-11",
         "type": "Vela",
-        "description": "Vela decorado con penacho."
+        "description": "Vela decorado con penacho.",
+        "status": "legacy"
     },
     {
         "id": "116",
@@ -125,7 +140,8 @@
         "image_url": "./cirios/cirio-dic1-2023.webp",
         "release_date": "2023-12-24",
         "type": "Cirio",
-        "description": "Cirio decorado noche buena."
+        "description": "Cirio decorado noche buena.",
+        "status": "legacy"
     },
     {
         "id": "117",
@@ -133,7 +149,8 @@
         "image_url": "./cirios/cirio-abr1-2024.webp",
         "release_date": "2023-04-07",
         "type": "Cirio",
-        "description": "Cirio decorado noche buena."
+        "description": "Cirio decorado noche buena.",
+        "status": "legacy"
     },
     {
         "id": "118",
@@ -141,7 +158,8 @@
         "image_url": "./cirios/cirio-abr2-2024.webp",
         "release_date": "2023-04-07",
         "type": "Cirio",
-        "description": "Cirio decorado noche buena."
+        "description": "Cirio decorado noche buena.",
+        "status": "legacy"
     },
     {
         "id": "119",
@@ -149,7 +167,8 @@
         "image_url": "./cirios/cirio-may1-2024.webp",
         "release_date": "2023-05-03",
         "type": "Cirio",
-        "description": "Cirio decorado noche buena."
+        "description": "Cirio decorado noche buena.",
+        "status": "legacy"
     }, 
     {
         "id": "120",
@@ -157,7 +176,8 @@
         "image_url": "./cirios/cirio-may2-2024.webp",
         "release_date": "2023-05-03",
         "type": "Cirio",
-        "description": "Cirio decorado noche buena."
+        "description": "Cirio decorado noche buena.",
+        "status": "legacy"
     },
     {
         "id": "121",
@@ -165,7 +185,8 @@
         "image_url": "./cirios/cirio-jul1-2024.webp",
         "release_date": "2023-07-16",
         "type": "Cirio",
-        "description": "Cirio decorado noche buena."
+        "description": "Cirio decorado noche buena.",
+        "status": "legacy"
     }, 
     {
         "id": "122",
@@ -173,7 +194,8 @@
         "image_url": "./cirios/cirio-agt1-2024.webp",
         "release_date": "2023-08-06",
         "type": "Cirio",
-        "description": "Cirio decorado noche buena."
+        "description": "Cirio decorado noche buena.",
+        "status": "legacy"
     },
     {
         "id": "123",
@@ -181,7 +203,8 @@
         "image_url": "./cirios/cirio-agt2-2024.webp",
         "release_date": "2023-08-06",
         "type": "Cirio",
-        "description": "Cirio decorado noche buena."
+        "description": "Cirio decorado noche buena.",
+        "status": "legacy"
     },
     {
         "id": "124",
@@ -189,7 +212,8 @@
         "image_url": "./cirios/cirio-agt3-2024.webp",
         "release_date": "2023-08-06",
         "type": "Cirio",
-        "description": "Cirio decorado noche buena."
+        "description": "Cirio decorado noche buena.",
+        "status": "legacy"
     },
     {
         "id": "125",
@@ -197,7 +221,8 @@
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736210804/Artisan/cirio-agt4-2024_rejcu3.webp",
         "release_date": "2023-08-22",
         "type": "Cirio",
-        "description": "Cirio decorado noche buena."
+        "description": "Cirio decorado noche buena.",
+        "status": "legacy"
     },
     {
         "id": "126",
@@ -205,7 +230,8 @@
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736264901/Artisan/cirio-oct1-2024_w1fpsl.webp",
         "release_date": "2023-10-02",
         "type": "Cirio",
-        "description": "Cirio decorado noche buena."
+        "description": "Cirio decorado noche buena.",
+        "status": "legacy"
     },
     {
         "id": "127",
@@ -213,7 +239,8 @@
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736265141/Artisan/cirio-oct2-2024_lnwerp.webp",
         "release_date": "2023-10-02",
         "type": "Cirio",
-        "description": "Cirio decorado noche buena."
+        "description": "Cirio decorado noche buena.",
+        "status": "legacy"
     },
     {
         "id": "128",
@@ -221,7 +248,8 @@
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736285750/Artisan/cirio-dic1-2024_wcxsz3.webp",
         "release_date": "2023-12-08",
         "type": "Cirio",
-        "description": "Cirio decorado noche buena."
+        "description": "Cirio decorado noche buena.",
+        "status": "new"
     },
     {
         "id": "129",
@@ -229,7 +257,8 @@
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736286219/Artisan/cirio-dic2-2024_sfuawk.webp",
         "release_date": "2023-12-08",
         "type": "Cirio",
-        "description": "Cirio decorado noche buena."
+        "description": "Cirio decorado noche buena.",
+        "status": "new"
     },
     {
         "id": "130",
@@ -237,7 +266,8 @@
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736286605/Artisan/minicirio-dic-2024_rhde7x.webp",
         "release_date": "2023-12-08",
         "type": "Mini-Cirio",
-        "description": "Cirio decorado noche buena."
+        "description": "Cirio decorado noche buena.",
+        "status": "new"
     },
     {
         "id": "131",
@@ -245,7 +275,8 @@
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736287098/Artisan/cirio-dic3-2024_rbwaxd.webp",
         "release_date": "2024-12-12",
         "type": "Cirio",
-        "description": "Cirio decorado noche buena."
+        "description": "Cirio decorado noche buena.",
+        "status": "new"
     },
     {
         "id": "132",
@@ -253,6 +284,7 @@
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736287399/Artisan/cirio-dic4-2024_jfsa71.webp",
         "release_date": "2024-12-12",
         "type": "Cirio",
-        "description": "Cirio decorado noche buena."
+        "description": "Cirio decorado noche buena.",
+        "status": "new"
     }
 ]
