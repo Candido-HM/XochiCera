@@ -249,7 +249,7 @@
         "release_date": "2023-12-08",
         "type": "Cirio",
         "description": "Cirio decorado noche buena.",
-        "status": "new"
+        "status": "legacy"
     },
     {
         "id": "129",
@@ -258,7 +258,7 @@
         "release_date": "2023-12-08",
         "type": "Cirio",
         "description": "Cirio decorado noche buena.",
-        "status": "new"
+        "status": "legacy"
     },
     {
         "id": "130",
@@ -267,7 +267,7 @@
         "release_date": "2023-12-08",
         "type": "Mini-Cirio",
         "description": "Cirio decorado noche buena.",
-        "status": "new"
+        "status": "legacy"
     },
     {
         "id": "131",
@@ -276,13 +276,58 @@
         "release_date": "2024-12-12",
         "type": "Cirio",
         "description": "Cirio decorado noche buena.",
-        "status": "new"
+        "status": "legacy"
     },
     {
         "id": "132",
         "name": "Arreglo de dalias",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736287399/Artisan/cirio-dic4-2024_jfsa71.webp",
         "release_date": "2024-12-12",
+        "type": "Cirio",
+        "description": "Cirio decorado noche buena.",
+        "status": "legacy"
+    },
+    {
+        "id": "133",
+        "name": "Arreglo de dalias",
+        "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1738467625/Artisan/cirio-oct3-2024_sdivfh.webp",
+        "release_date": "2024-10-04",
+        "type": "Cirio",
+        "description": "Cirio decorado noche buena.",
+        "status": "new"
+    },
+    {
+        "id": "134",
+        "name": "Arreglo de dalias",
+        "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1738526390/Artisan/cirio-oct4-2024_kxzfbd.webp",
+        "release_date": "2024-10-04",
+        "type": "Cirio",
+        "description": "Cirio decorado noche buena.",
+        "status": "new"
+    },
+    {
+        "id": "135",
+        "name": "Arreglo de dalias",
+        "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1738529560/Artisan/cirio-oct5-2024_zfhexv.webp",
+        "release_date": "2024-10-04",
+        "type": "Cirio",
+        "description": "Cirio decorado noche buena.",
+        "status": "new"
+    },
+    {
+        "id": "136",
+        "name": "Arreglo de girasoles",
+        "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1738463680/Artisan/cirio-feb1-2025_sepqqm.webp",
+        "release_date": "2025-02-02",
+        "type": "Cirio",
+        "description": "Cirio decorado noche buena.",
+        "status": "new"
+    },
+    {
+        "id": "137",
+        "name": "Arreglo de soles",
+        "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1738463680/Artisan/cirio-feb2-2025_i451vc.webp",
+        "release_date": "2025-02-02",
         "type": "Cirio",
         "description": "Cirio decorado noche buena.",
         "status": "new"
