@@ -246,7 +246,7 @@
         "id": "128",
         "name": "Estampado Concepción",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736285750/Artisan/cirio-dic1-2024_wcxsz3.webp",
-        "release_date": "2023-12-08",
+        "release_date": "2024-12-08",
         "type": "Cirio",
         "description": "Cirio decorado noche buena.",
         "status": "legacy"
@@ -255,7 +255,7 @@
         "id": "129",
         "name": "Decorado con estrellas",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736286219/Artisan/cirio-dic2-2024_sfuawk.webp",
-        "release_date": "2023-12-08",
+        "release_date": "2024-12-08",
         "type": "Cirio",
         "description": "Cirio decorado noche buena.",
         "status": "legacy"
@@ -264,7 +264,7 @@
         "id": "130",
         "name": "Círculo de girasoles",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736286605/Artisan/minicirio-dic-2024_rhde7x.webp",
-        "release_date": "2023-12-08",
+        "release_date": "2024-12-08",
         "type": "Mini-Cirio",
         "description": "Cirio decorado noche buena.",
         "status": "legacy"
@@ -329,6 +329,15 @@
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1738463680/Artisan/cirio-feb2-2025_i451vc.webp",
         "release_date": "2025-02-02",
         "type": "Cirio",
+        "description": "Cirio decorado noche buena.",
+        "status": "new"
+    },
+    {
+        "id": "138",
+        "name": "Círculo de girasoles",
+        "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1738877323/Artisan/minicirio-feb-2025_hwbzij.webp",
+        "release_date": "2025-02-02",
+        "type": "Mini-Cirio",
         "description": "Cirio decorado noche buena.",
         "status": "new"
     }
