@@ -294,7 +294,7 @@
         "release_date": "2024-10-04",
         "type": "Cirio",
         "description": "Cirio decorado noche buena.",
-        "status": "new"
+        "status": "legacy"
     },
     {
         "id": "134",
@@ -303,7 +303,7 @@
         "release_date": "2024-10-04",
         "type": "Cirio",
         "description": "Cirio decorado noche buena.",
-        "status": "new"
+        "status": "legacy"
     },
     {
         "id": "135",
@@ -312,7 +312,7 @@
         "release_date": "2024-10-04",
         "type": "Cirio",
         "description": "Cirio decorado noche buena.",
-        "status": "new"
+        "status": "legacy"
     },
     {
         "id": "136",
@@ -321,7 +321,7 @@
         "release_date": "2025-02-02",
         "type": "Cirio",
         "description": "Cirio decorado noche buena.",
-        "status": "new"
+        "status": "legacy"
     },
     {
         "id": "137",
@@ -330,7 +330,7 @@
         "release_date": "2025-02-02",
         "type": "Cirio",
         "description": "Cirio decorado noche buena.",
-        "status": "new"
+        "status": "legacy"
     },
     {
         "id": "138",
@@ -339,6 +339,15 @@
         "release_date": "2025-02-02",
         "type": "Mini-Cirio",
         "description": "Cirio decorado noche buena.",
+        "status": "legacy"
+    },
+    {
+        "id": "139",
+        "name": "Girasoles",
+        "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1742173080/Artisan/minicirio-mzo1-2025_dknoa6.webp",
+        "release_date": "2025-03-19",
+        "type": "Mini-Cirio",
+        "description": "Miniciro con la girasoles",
         "status": "new"
     }
 ]
