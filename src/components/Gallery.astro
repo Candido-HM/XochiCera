@@ -40,13 +40,17 @@ import { ReactionSectionComponent } from './reactions-components/SectionReaction
                 </div>
                 <span class="bg-blue-200 text-blue-700 text-xs font-semibold px-2.5 py-0.5 rounded-md ms-3">0</span>
             </div> */}
-            {/* <ReactionSectionComponent client:visible/> */}
+            {/*<ReactionSectionComponent client:visible/> */}
             
             <div class="h-full bg-white py-3 px-5">
-                <div>
+                {/* <div>
                     <h5 class="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{artesania.name}</h5>
-                </div>
+                </div> */}
                 <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">{artesania.type}</p>
+                <div class="flex mb-4 font-normal text-gray-700 dark:text-gray-400">
+                    <img class="w-6" src="/icons/height.svg">
+                    <p>{artesania.height}</p>
+                </div>
                     {/* <TooltipsReactions artisanId={artesania.id} />  */}
                     {/* {<TooltipsReactionsComponent artisanId={artesania.id}/> } */}
             </div>
