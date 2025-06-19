@@ -397,7 +397,7 @@
         "type": "Cirio",
         "description": "Miniciro con la girasoles",
         "height": "140 cm",
-        "status": "new"
+        "status": "legacy"
     },
     {
         "id": "141",
@@ -407,7 +407,7 @@
         "type": "Cirio",
         "description": "Miniciro con la girasoles",
         "height": "140 cm",
-        "status": "new"
+        "status": "legacy"
     },
     {
         "id": "142",
@@ -417,6 +417,26 @@
         "type": "Mini-Cirio",
         "description": "Miniciro con la girasoles",
         "height": "95 cm",
+        "status": "legacy"
+    },
+    {
+        "id": "143",
+        "name": "Girasoles",
+        "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1750365000/Artisan/cirio-jun1-2025_i7ntkv.webp",
+        "release_date": "2025-06-13",
+        "type": "Cirio",
+        "description": "Miniciro con la girasoles",
+        "height": "150 cm",
+        "status": "new"
+    },
+    {
+        "id": "144",
+        "name": "Girasoles",
+        "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1750365016/Artisan/cirio-jun2-2025_fwwk6f.webp",
+        "release_date": "2025-06-13",
+        "type": "Cirio",
+        "description": "Miniciro con la girasoles",
+        "height": "150 cm",
         "status": "new"
     }
 ]
