@@ -1,7 +1,7 @@
 [
     {
         "id": "101",
-        "name": "Cirio floral en Zoquiapan",
+        "name": "Cirio floral en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-agt1-2022.webp",
         "release_date": "2022-08-15",
         "type": "Cirio",
@@ -11,7 +11,7 @@
     },
     {
         "id": "102",
-        "name": "Cirio decorativo en Zoquiapan",
+        "name": "Cirio decorativo en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-agt2-2022.webp",
         "release_date": "2022-08-15",
         "type": "Cirio",
@@ -21,7 +21,7 @@
     },
     {
         "id": "103",
-        "name": "Decoración floral en Zoquiapan",
+        "name": "Decoración floral en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-agt3-2022.webp",
         "release_date": "2022-08-15",
         "type": "Cirio",
@@ -31,7 +31,7 @@
     },
     {
         "id": "104",
-        "name": "Decoración con Pavo real en Zoquiapan",
+        "name": "Decoración con Pavo real en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-mzo1-2023.webp",
         "release_date": "2023-03-19",
         "type": "Cirio",
@@ -41,7 +41,7 @@
     },
     {
         "id": "105",
-        "name": "Alcatraz decorativo en Zoquiapan",
+        "name": "Alcatraz decorativo en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-abr1-2023.webp",
         "release_date": "2023-04-16",
         "type": "Cirio",
@@ -51,7 +51,7 @@
     },
     {
         "id": "106",
-        "name": "Floral con dalias en Zoquiapan",
+        "name": "Floral con dalias en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-abr2-2023.webp",
         "release_date": "2023-04-16",
         "type": "Cirio",
@@ -61,7 +61,7 @@
     },
     {
         "id": "107",
-        "name": "Cirio de Santa Cruz en Zoquiapan",
+        "name": "Cirio de Santa Cruz en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-may1-2023.webp",
         "release_date": "2023-05-03",
         "type": "Cirio",
@@ -71,7 +71,7 @@
     },
     {
         "id": "108",
-        "name": "Cirio decorativo con dalias en Zoquiapan",
+        "name": "Cirio decorativo con dalias en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-may2-2023.webp",
         "release_date": "2023-05-03",
         "type": "Cirio",
@@ -81,7 +81,7 @@
     },
     {
         "id": "109",
-        "name": "Decorativo con semipenacho en Zoquiapan",
+        "name": "Decorativo con semipenacho en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-jun1-2023.webp",
         "release_date": "2023-06-13",
         "type": "Cirio",
@@ -91,7 +91,7 @@
     },
     {
         "id": "110",
-        "name": "Cirio media-estrella en Zoquiapan",
+        "name": "Cirio media-estrella en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-jul1-2023.webp",
         "release_date": "2023-07-16",
         "type": "Cirio",
@@ -101,7 +101,7 @@
     },
     {
         "id": "111",
-        "name": "Sol decorativo con dalias en Zoquiapan",
+        "name": "Sol decorativo con dalias en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-agt1-2023.webp",
         "release_date": "2023-08-06",
         "type": "Cirio",
@@ -111,7 +111,7 @@
     },
     {
         "id": "112",
-        "name": "Estampado con Padre Jésus en Zoquiapan",
+        "name": "Estampado con Padre Jésus en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-agt2-2023.webp",
         "release_date": "2023-08-06",
         "type": "Cirio",
@@ -121,7 +121,7 @@
     },
     {
         "id": "113",
-        "name": "Cirio artesanal en Zoquiapan",
+        "name": "Cirio artesanal en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-oct1-2023.webp",
         "release_date": "2023-10-02",
         "type": "Cirio",
@@ -131,7 +131,7 @@
     },
     {
         "id": "114",
-        "name": "Floral con Alcatraz en Zoquiapan",
+        "name": "Floral con Alcatraz en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-oct2-2023.webp",
         "release_date": "2023-10-02",
         "type": "Cirio",
@@ -141,7 +141,7 @@
     },
     {
         "id": "115",
-        "name": "Penacho en Zoquiapan",
+        "name": "Penacho en Zoquiapan Puebla",
         "image_url": "./velas/vela-penacho.webp",
         "release_date": "2023-10-11",
         "type": "Vela",
@@ -151,7 +151,7 @@
     },
     {
         "id": "116",
-        "name": "Noche Buena en Zoquiapan",
+        "name": "Noche Buena en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-dic1-2023.webp",
         "release_date": "2023-12-24",
         "type": "Cirio",
@@ -161,7 +161,7 @@
     },
     {
         "id": "117",
-        "name": "Ramas con Alcatraz en Zoquiapan",
+        "name": "Ramas con Alcatraz en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-abr1-2024.webp",
         "release_date": "2023-04-07",
         "type": "Cirio",
@@ -171,7 +171,7 @@
     },
     {
         "id": "118",
-        "name": "Las 4 dalias en Zoquiapan",
+        "name": "Las 4 dalias en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-abr2-2024.webp",
         "release_date": "2023-04-07",
         "type": "Cirio",
@@ -181,7 +181,7 @@
     },
     {
         "id": "119",
-        "name": "Mayordomía Sagrado Corazón en Zoquiapan",
+        "name": "Mayordomía Sagrado Corazón en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-may1-2024.webp",
         "release_date": "2023-05-03",
         "type": "Cirio",
@@ -191,7 +191,7 @@
     }, 
     {
         "id": "120",
-        "name": "Decorativo sol en Zoquiapan",
+        "name": "Decorativo sol en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-may2-2024.webp",
         "release_date": "2023-05-03",
         "type": "Cirio",
@@ -201,7 +201,7 @@
     },
     {
         "id": "121",
-        "name": "Mayordomía del Carmen en Zoquiapan",
+        "name": "Mayordomía del Carmen en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-jul1-2024.webp",
         "release_date": "2023-07-16",
         "type": "Cirio",
@@ -211,7 +211,7 @@
     }, 
     {
         "id": "122",
-        "name": "Cirio floral dalias en Zoquiapan",
+        "name": "Cirio floral dalias en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-agt1-2024.webp",
         "release_date": "2023-08-06",
         "type": "Cirio",
@@ -221,7 +221,7 @@
     },
     {
         "id": "123",
-        "name": "Decorativo rosas en Zoquiapan",
+        "name": "Decorativo rosas en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-agt2-2024.webp",
         "release_date": "2023-08-06",
         "type": "Cirio",
@@ -231,7 +231,7 @@
     },
     {
         "id": "124",
-        "name": "Cirio artesanal en Zoquiapan",
+        "name": "Cirio artesanal en Zoquiapan Puebla",
         "image_url": "./cirios/cirio-agt3-2024.webp",
         "release_date": "2023-08-06",
         "type": "Cirio",
@@ -241,7 +241,7 @@
     },
     {
         "id": "125",
-        "name": "Estrellas en Zoquiapan",
+        "name": "Estrellas en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736210804/Artisan/cirio-agt4-2024_rejcu3.webp",
         "release_date": "2023-08-22",
         "type": "Cirio",
@@ -251,7 +251,7 @@
     },
     {
         "id": "126",
-        "name": "San Francisco en Zoquiapan",
+        "name": "San Francisco en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736264901/Artisan/cirio-oct1-2024_w1fpsl.webp",
         "release_date": "2023-10-02",
         "type": "Cirio",
@@ -261,7 +261,7 @@
     },
     {
         "id": "127",
-        "name": "San Francisco II en Zoquiapan",
+        "name": "San Francisco II en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736265141/Artisan/cirio-oct2-2024_lnwerp.webp",
         "release_date": "2023-10-02",
         "type": "Cirio",
@@ -271,7 +271,7 @@
     },
     {
         "id": "128",
-        "name": "Estampado Concepción en Zoquiapan",
+        "name": "Estampado Concepción en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736285750/Artisan/cirio-dic1-2024_wcxsz3.webp",
         "release_date": "2024-12-08",
         "type": "Cirio",
@@ -281,7 +281,7 @@
     },
     {
         "id": "129",
-        "name": "Decorado con estrellas en Zoquiapan",
+        "name": "Decorado con estrellas en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736286219/Artisan/cirio-dic2-2024_sfuawk.webp",
         "release_date": "2024-12-08",
         "type": "Cirio",
@@ -291,7 +291,7 @@
     },
     {
         "id": "130",
-        "name": "Círculo de girasoles en Zoquiapan",
+        "name": "Círculo de girasoles en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736286605/Artisan/minicirio-dic-2024_rhde7x.webp",
         "release_date": "2024-12-08",
         "type": "Mini-Cirio",
@@ -301,7 +301,7 @@
     },
     {
         "id": "131",
-        "name": "Arreglo de girasol en Zoquiapan",
+        "name": "Arreglo de girasol en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736287098/Artisan/cirio-dic3-2024_rbwaxd.webp",
         "release_date": "2024-12-12",
         "type": "Cirio",
@@ -311,7 +311,7 @@
     },
     {
         "id": "132",
-        "name": "Arreglo de dalias en Zoquiapan",
+        "name": "Arreglo de dalias en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1736287399/Artisan/cirio-dic4-2024_jfsa71.webp",
         "release_date": "2024-12-12",
         "type": "Cirio",
@@ -321,7 +321,7 @@
     },
     {
         "id": "133",
-        "name": "Arreglo de dalias en Zoquiapan",
+        "name": "Arreglo de dalias en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1738467625/Artisan/cirio-oct3-2024_sdivfh.webp",
         "release_date": "2024-10-04",
         "type": "Cirio",
@@ -331,7 +331,7 @@
     },
     {
         "id": "134",
-        "name": "Arreglo de dalias en Zoquiapan",
+        "name": "Arreglo de dalias en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1738526390/Artisan/cirio-oct4-2024_kxzfbd.webp",
         "release_date": "2024-10-04",
         "type": "Cirio",
@@ -341,7 +341,7 @@
     },
     {
         "id": "135",
-        "name": "Arreglo de dalias en Zoquiapan",
+        "name": "Arreglo de dalias en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1738529560/Artisan/cirio-oct5-2024_zfhexv.webp",
         "release_date": "2024-10-04",
         "type": "Cirio",
@@ -351,7 +351,7 @@
     },
     {
         "id": "136",
-        "name": "Arreglo de girasoles en Zoquiapan",
+        "name": "Arreglo de girasoles en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1738463680/Artisan/cirio-feb1-2025_sepqqm.webp",
         "release_date": "2025-02-02",
         "type": "Cirio",
@@ -361,7 +361,7 @@
     },
     {
         "id": "137",
-        "name": "Arreglo de soles en Zoquiapan",
+        "name": "Arreglo de soles en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1738463680/Artisan/cirio-feb2-2025_i451vc.webp",
         "release_date": "2025-02-02",
         "type": "Cirio",
@@ -371,7 +371,7 @@
     },
     {
         "id": "138",
-        "name": "Círculo de girasoles en Zoquiapan",
+        "name": "Círculo de girasoles en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1738877323/Artisan/minicirio-feb-2025_hwbzij.webp",
         "release_date": "2025-02-02",
         "type": "Mini-Cirio",
@@ -381,7 +381,7 @@
     },
     {
         "id": "139",
-        "name": "Girasoles en Zoquiapan",
+        "name": "Girasoles en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1742173080/Artisan/minicirio-mzo1-2025_dknoa6.webp",
         "release_date": "2025-03-19",
         "type": "Mini-Cirio",
@@ -391,7 +391,7 @@
     },
     {
         "id": "140",
-        "name": "Girasoles en Zoquiapan",
+        "name": "Girasoles en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1745524163/Artisan/cirio-abr1-2025_fr6djv.webp",
         "release_date": "2025-04-27",
         "type": "Cirio",
@@ -401,7 +401,7 @@
     },
     {
         "id": "141",
-        "name": "Girasoles en Zoquiapan",
+        "name": "Girasoles en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1745524274/Artisan/cirio-abr2-2025_i7eeq0.webp",
         "release_date": "2025-04-27",
         "type": "Cirio",
@@ -411,7 +411,7 @@
     },
     {
         "id": "142",
-        "name": "Girasoles en Zoquiapan",
+        "name": "Girasoles en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1745524394/Artisan/minicirio-abr-2025_godrlf.webp",
         "release_date": "2025-04-27",
         "type": "Mini-Cirio",
@@ -421,7 +421,7 @@
     },
     {
         "id": "143",
-        "name": "Girasoles en Zoquiapan",
+        "name": "Girasoles en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1750365000/Artisan/cirio-jun1-2025_i7ntkv.webp",
         "release_date": "2025-06-13",
         "type": "Cirio",
@@ -431,7 +431,7 @@
     },
     {
         "id": "144",
-        "name": "Girasoles en Zoquiapan",
+        "name": "Girasoles en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1750365016/Artisan/cirio-jun2-2025_fwwk6f.webp",
         "release_date": "2025-06-13",
         "type": "Cirio",
@@ -441,7 +441,7 @@
     },
     {
         "id": "145",
-        "name": "Girasoles en Zoquiapan",
+        "name": "Girasoles en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1751399746/Artisan/cirio-jun3-2025_znnnmi.webp",
         "release_date": "2025-06-27",
         "type": "Cirio",
@@ -451,7 +451,7 @@
     },
     {
         "id": "146",
-        "name": "Girasoles en Zoquiapan",
+        "name": "Girasoles en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1751399791/Artisan/cirio-jun4-2025_xzdqdb.webp",
         "release_date": "2025-06-27",
         "type": "Cirio",
@@ -461,7 +461,7 @@
     },
     {
         "id": "147",
-        "name": "Girasoles en Zoquiapan",
+        "name": "Girasoles en Zoquiapan Puebla",
         "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1751399843/Artisan/minicirio-jun2-2025_slltjo.webp",
         "release_date": "2025-06-27",
         "type": "Mini-Cirio",
