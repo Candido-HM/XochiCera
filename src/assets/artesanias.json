@@ -447,7 +447,7 @@
         "type": "Cirio",
         "description": "Miniciro con la girasoles",
         "height": "150 cm",
-        "status": "new"
+        "status": "legacy"
     },
     {
         "id": "146",
@@ -457,7 +457,7 @@
         "type": "Cirio",
         "description": "Miniciro con la girasoles",
         "height": "150 cm",
-        "status": "new"
+        "status": "legacy"
     },
     {
         "id": "147",
@@ -467,6 +467,57 @@
         "type": "Mini-Cirio",
         "description": "Miniciro con la girasoles",
         "height": "95 cm",
+        "status": "legacy"
+    },
+    {
+        "id": "148",
+        "name": "Girasoles en Zoquiapan Puebla",
+        "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1753999813/Artisan/cirio-jul1-2025_pwiib0.webp",
+        "release_date": "2025-07-16",
+        "type": "Cirio",
+        "description": "Miniciro con la girasoles",
+        "height": "150 cm",
+        "status": "new"
+    },
+    {
+        "id": "149",
+        "name": "Girasoles en Zoquiapan Puebla",
+        "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1753999865/Artisan/cirio-jul2-2025_cjmzgb.webp",
+        "release_date": "2025-07-16",
+        "type": "Cirio",
+        "description": "Miniciro con la girasoles",
+        "height": "150 cm",
+        "status": "new"
+    },
+    {
+        "id": "150",
+        "name": "Girasoles en Zoquiapan Puebla",
+        "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1753999944/Artisan/cirio-jul3-2025_rfjfqr.webp",
+        "release_date": "2025-07-16",
+        "type": "Cirio",
+        "description": "Miniciro con la girasoles",
+        "height": "170 cm",
+        "status": "new"
+    },
+    {
+        "id": "151",
+        "name": "Girasoles en Zoquiapan Puebla",
+        "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1754000034/Artisan/cirio-jul4-2025_it8eab.webp",
+        "release_date": "2025-07-16",
+        "type": "Cirio",
+        "description": "Miniciro con la girasoles",
+        "height": "170 cm",
+        "status": "new"
+    },
+    {
+        "id": "152",
+        "name": "Girasoles en Zoquiapan Puebla",
+        "image_url": "https://res.cloudinary.com/dhwbvncoq/image/upload/v1754000100/Artisan/minicirio-jul-2025_a0j2me.webp",
+        "release_date": "2025-06-27",
+        "type": "Mini-Cirio",
+        "description": "Miniciro con la girasoles",
+        "height": "95 cm",
         "status": "new"
     }
+    
 ]
